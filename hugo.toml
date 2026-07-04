@@ -1,2 +1,16 @@
-baseURL = 'https://joshyan10.github.io/'
-theme = 'PaperMod'
+baseURL = "https://joshyan10.github.io/"
+theme = "PaperMod"
+title = "Jiangxu Yan | Academic Homepage"
+languageCode = "en"
+
+[outputs]
+    home = ["HTML", "RSS", "JSON"]
+
+[params]
+    defaultTheme = "auto"
+    displayShareButtons = false
+    showCodeCopyButtons = true
+
+    [params.homeInfoParams]
+        Title = "Hi, I'm Jiangxu Yan! 👋"
+        Content = "Welcome to my academic space. I am an undergraduate student with a keen interest in Artificial Intelligence. Currently, I am dedicated to self-studying foundational AI concepts and advanced mathematics, while actively mapping out my future graduate school applications."
