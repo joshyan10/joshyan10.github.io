@@ -1,1 +1,2 @@
-theme = "PaperMod"
+baseURL = 'https://joshyan10.github.io/'
+theme = 'PaperMod'
