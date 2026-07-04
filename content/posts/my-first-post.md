@@ -1,6 +1,22 @@
 +++
-date = '2026-07-04T11:09:32+08:00'
+
+date = '2026-07-04T11:00:00+08:00'
+
 draft = false
-title = 'My First Post'
+
+title = 'Embarking on MIT 18.06SC'
+
+tags = \['Linear Algebra', 'MIT 18.06SC']
+
+categories = \['Mathematics']
+
 +++
+
+
+
+I officially started my self-study journey with \*\*MIT 18.06SC Linear Algebra\*\* today!
+
+
+
+!\[MIT 18.06SC](/images/linear-algebra.png)
 
